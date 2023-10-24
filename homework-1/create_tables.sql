@@ -1,5 +1,4 @@
 -- SQL-команды для создания таблиц
-
 CREATE TABLE customers_data
 (
 	customer_id varchar(5) PRIMARY KEY,
